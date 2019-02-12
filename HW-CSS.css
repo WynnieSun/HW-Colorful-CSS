@@ -1,0 +1,40 @@
+*{
+  font-family: Arial;}
+h1{
+  font-family: Arial;
+  color: #FF9966;}
+body{
+  font-family: Arial;
+  background-color: AntiqueWhite;
+  text-align: justify;}
+h2{
+  font-family: Arial;
+  color: CadetBlue;}
+ul{
+  list-style: inside circle;
+  width: 1500px;}
+li{font-family: Arial;
+  color: Black;
+  line-height: 2em;
+  text-align: justify;}
+th{
+  text-align: center;}
+tr{
+  text-align: center;}
+td{
+  text-align: center;
+  width: 100px;}
+a:link{
+  color: DarkSalmon;}
+a:visited{
+  color: CadetBlue;}
+table {
+  border-collapse: collapse;
+  height: 450px;
+  width: 450px;
+  background-color: #FFCC99;
+  color: #333333;}
+table, th, td{
+  border:1px solid black;}
+img{
+  align:left;}
